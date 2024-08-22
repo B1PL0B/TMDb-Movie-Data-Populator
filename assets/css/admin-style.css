@@ -1,0 +1,27 @@
+#tmdb-movie-data {
+    margin-top: 20px;
+}
+
+#tmdb-movie-data .tmdb-field {
+    margin-bottom: 10px;
+}
+
+#tmdb-movie-data label {
+    display: inline-block;
+    width: 150px;
+    font-weight: bold;
+}
+
+#tmdb-movie-data input[type="text"] {
+    width: 300px;
+}
+
+#tmdb_fetch_data {
+    margin-left: 10px;
+}
+
+#tmdb-loading,
+#tmdb-error {
+    margin-top: 10px;
+    font-weight: bold;
+}
