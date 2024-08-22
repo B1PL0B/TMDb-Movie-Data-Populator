@@ -24,6 +24,11 @@
 - **Revenue**
 - **Budget**
 - **Rating**
+- **Synopsys**
+
+**Displaying Custom Field Data in Your Post**
+
+**Note:** To display the custom field data populated by the plugin on your post, you can add the `short-code.php`'s code to your theme's `single.php` file. You can modify this code as needed to customize the layout and presentation:
 
 **Usage**
 
