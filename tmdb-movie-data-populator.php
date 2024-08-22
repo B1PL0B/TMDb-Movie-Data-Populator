@@ -3,7 +3,7 @@
 Plugin Name: TMDb Movie Data Populator
 Description: Automatically populates custom fields with movie data from TMDb.
 Version: 1.0
-Author: Your Name
+Author: B1PL0B
 */
 
 // Exit if accessed directly
